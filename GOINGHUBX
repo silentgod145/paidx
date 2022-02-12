@@ -4,4 +4,3 @@ if plr:IsInGroup("13526071") then
     else
     plr:Kick("Not Whitelisted")
 end
-e

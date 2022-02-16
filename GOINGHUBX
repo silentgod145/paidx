@@ -2,5 +2,5 @@ local plr = game:GetService("Players").LocalPlayer
 if plr:IsInGroup("13526071") then
  loadstring(game:HttpGet("https://raw.githubusercontent.com/bobdebuilderx/PAIDhub/main/GOING"))()
     else
-    plr:Kick("Not Whitelisted")
+    plr:Kick("User Banned !")
 end
